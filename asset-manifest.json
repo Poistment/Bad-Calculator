@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Bad-Calculator/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Bad-Calculator/static/js/main.15878024.chunk.js",
+    "main.js.map": "/Bad-Calculator/static/js/main.15878024.chunk.js.map",
+    "runtime-main.js": "/Bad-Calculator/static/js/runtime-main.3161ffc2.js",
+    "runtime-main.js.map": "/Bad-Calculator/static/js/runtime-main.3161ffc2.js.map",
+    "static/css/2.658248ec.chunk.css": "/Bad-Calculator/static/css/2.658248ec.chunk.css",
+    "static/js/2.095c1e53.chunk.js": "/Bad-Calculator/static/js/2.095c1e53.chunk.js",
+    "static/js/2.095c1e53.chunk.js.map": "/Bad-Calculator/static/js/2.095c1e53.chunk.js.map",
+    "static/js/3.74aa2bdc.chunk.js": "/Bad-Calculator/static/js/3.74aa2bdc.chunk.js",
+    "static/js/3.74aa2bdc.chunk.js.map": "/Bad-Calculator/static/js/3.74aa2bdc.chunk.js.map",
+    "index.html": "/Bad-Calculator/index.html",
+    "static/css/2.658248ec.chunk.css.map": "/Bad-Calculator/static/css/2.658248ec.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Bad-Calculator/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.095c1e53.chunk.js.LICENSE.txt": "/Bad-Calculator/static/js/2.095c1e53.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3161ffc2.js",
+    "static/css/2.658248ec.chunk.css",
+    "static/js/2.095c1e53.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.15878024.chunk.js"
+  ]
+}
